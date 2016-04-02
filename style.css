@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-image: linear-gradient(#666, #111)
+}
+
+h1 {
+    background: #555;
+    color: white;
+    padding: 15px;
+    margin: 0px;
+    text-align: center;
+}
+
+nav Button{
+    width: 19.7%;
+    background: #333;
+    color: #BBB;
+    padding: 10px;
+    border: 0px;
+}
+
+.Leave {
+    background-color: #333;
+}
+
+.Enter {
+    background-color: #FFF;
+}
+
+/*
+nav ul {
+    display: inline;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    background: gray;
+    padding: 10px;
+    margin: 0px;
+}
+
+nav ul li a {
+    color: white;
+    
+    
+}*/
