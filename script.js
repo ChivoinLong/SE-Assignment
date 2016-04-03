@@ -1,3 +1,3 @@
-$(function (){
-    $("#head").hide(1000);
+jQuery(document).ready(function (){
+    jQuery("icon").hide();
 });

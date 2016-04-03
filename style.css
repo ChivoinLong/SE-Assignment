@@ -1,47 +1,28 @@
 body {
     margin: 0;
-    background-image: linear-gradient(#666, #111)
+    background-image: linear-gradient(#777, #000)
 }
 
-h1 {
-    background: #555;
-    color: white;
-    padding: 15px;
-    margin: 0px;
-    text-align: center;
+#navigation {
+    background-image: linear-gradient(#FFF, #777)
 }
 
-nav Button{
-    width: 19.7%;
-    background: #333;
-    color: #BBB;
-    padding: 10px;
-    border: 0px;
+#navigation ul {
+    float: right;
 }
 
-.Leave {
-    background-color: #333;
-}
-
-.Enter {
-    background-color: #FFF;
-}
-
-/*
-nav ul {
-    display: inline;
-}
-
-nav ul li {
+#navigation ul li {
     list-style-type: none;
     display: inline-block;
-    background: gray;
-    padding: 10px;
-    margin: 0px;
+    background-image: linear-gradient(#000, #333);
+    padding: 10px 30px;
+    margin: 14px 5px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 15px #888;
 }
 
-nav ul li a {
-    color: white;
-    
-    
-}*/
+#navigation ul li a{
+    color: #CCC;
+    font-weight: bolder;
+}
+
